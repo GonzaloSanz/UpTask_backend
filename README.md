@@ -3,5 +3,3 @@
 Realizado con Node.js, Express, Mongoose y TypeScript.
 
 Frontend: https://github.com/GonzaloSanz/UpTask_frontend
-
-Sitio Web: https://uptask-gonzalosanz.vercel.app/
